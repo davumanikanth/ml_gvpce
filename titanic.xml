@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TitanicDataset>
+    <Passenger>
+        <PassengerId>1</PassengerId>
+        <Survived>0</Survived>
+        <Pclass>3</Pclass>
+        <Name>Braund, Mr. Owen Harris</Name>
+        <Sex>male</Sex>
+        <Age>22</Age>
+        <Fare>7.25</Fare>
+    </Passenger>
+
+    <Passenger>
+        <PassengerId>2</PassengerId>
+        <Survived>1</Survived>
+        <Pclass>1</Pclass>
+        <Name>Cumings, Mrs. John Bradley</Name>
+        <Sex>female</Sex>
+        <Age>38</Age>
+        <Fare>71.2833</Fare>
+    </Passenger>
+
+    <Passenger>
+        <PassengerId>3</PassengerId>
+        <Survived>1</Survived>
+        <Pclass>3</Pclass>
+        <Name>Heikkinen, Miss. Laina</Name>
+        <Sex>female</Sex>
+        <Age>26</Age>
+        <Fare>7.925</Fare>
+    </Passenger>
+
+    <Passenger>
+        <PassengerId>4</PassengerId>
+        <Survived>1</Survived>
+        <Pclass>1</Pclass>
+        <Name>Futrelle, Mrs. Jacques Heath</Name>
+        <Sex>female</Sex>
+        <Age>35</Age>
+        <Fare>53.1</Fare>
+    </Passenger>
+
+    <Passenger>
+        <PassengerId>5</PassengerId>
+        <Survived>0</Survived>
+        <Pclass>3</Pclass>
+        <Name>Allen, Mr. William Henry</Name>
+        <Sex>male</Sex>
+        <Age>35</Age>
+        <Fare>8.05</Fare>
+    </Passenger>
+</TitanicDataset>
